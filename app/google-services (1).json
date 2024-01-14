@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "487390861196",
+    "firebase_url": "https://marketplace-c75e7-default-rtdb.firebaseio.com",
+    "project_id": "marketplace-c75e7",
+    "storage_bucket": "marketplace-c75e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487390861196:android:495473394a2523bf0ee8a9",
+        "android_client_info": {
+          "package_name": "com.android.shoppingzoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVZ6QNZMnFuUfh1JfjOJdK_zJ4axj8y0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
